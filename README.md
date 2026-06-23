@@ -89,8 +89,9 @@ Figma • UI/UX Design
 ## 🔥 Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=If+You+Wish+Defeat+Me%2C+Try+Another+1000+Years.;-+ColinUzb&center=true&width=700&height=50">
 </p>
+
 
 ---
 
